@@ -6,7 +6,7 @@ gcc count_lines.c
 ```
 
 
-#example 1
+Example 1
 
 ```
 ./a.out 
@@ -16,7 +16,7 @@ Output
 
 No args found
 
-#example 2
+Example 2
 ```
 ./a.out hello.txt
 ```
