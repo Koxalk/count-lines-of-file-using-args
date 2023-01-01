@@ -8,6 +8,14 @@ gcc count_lines.c
 
 Example 1
 
+Windows
+
+```
+a.exe
+```
+
+Linux
+
 ```
 ./a.out 
 ```
@@ -16,7 +24,16 @@ Output
 
 No args found
 
+
 Example 2
+
+Windows
+
+```
+a.exe hello.txt
+```
+
+Linux
 ```
 ./a.out hello.txt
 ```
