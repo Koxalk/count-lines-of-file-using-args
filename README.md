@@ -29,7 +29,9 @@ working with file hello.txt
 
 
 
+
 Windows 
+
 
 ![](https://github.com/Koxalk/count-lines-of-file-using-args/blob/main/ezgif-5-6054846acb.gif)
 
