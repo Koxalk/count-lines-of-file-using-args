@@ -37,3 +37,5 @@ Windows
 
 
 Linux
+
+![](https://github.com/Koxalk/count-lines-of-file-using-args/blob/main/gif.gif)
